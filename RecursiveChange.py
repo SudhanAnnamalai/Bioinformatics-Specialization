@@ -17,4 +17,4 @@ def RecursiveChange(money,coins):
                 MinNumCoins = NumCoins+1
     return MinNumCoins
     
-RecursiveChange(76,coins)
+RecursiveChange(money,coins)
